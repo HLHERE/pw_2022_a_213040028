@@ -1,0 +1,20 @@
+.site-footer
+{
+  background-color:#ff0000;
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#ff0000;
+
+}
+.site-footer h6
+{
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px
+}
+.site-footer p {
+    color: #fff;
+}

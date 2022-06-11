@@ -1,0 +1,23 @@
+
+
+
+
+
+
+.caps h1  {
+    text-align: center;
+    color: #ffff;
+    padding-bottom: 10px;
+}
+.caps p {
+    text-align: center;
+    color: #ffff;
+    font-weight: bolder;
+
+
+}
+.caps {
+    background-color: #ff0000;
+    padding: 100px;
+}
+
